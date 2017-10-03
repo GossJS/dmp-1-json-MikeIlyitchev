@@ -22,7 +22,11 @@
 	Задание 1.
 		Ссылка на JSON-файл:
 			https://kodaktor.ru/j/myjson.ru_3111d
+		Ссылка на JSON-схему:
+			https://kodaktor.ru/j/myjson.ru_f54f4
 
 	Задание 2.
 		Ссылка на JSON-файл:
 			https://kodaktor.ru/j/myjson.ru_602cb
+		Ссылка на JSON-схему:
+			https://kodaktor.ru/j/myjson.ru_6d55b
